@@ -5,6 +5,8 @@
 -- Finland, http://www.stat.fi/worldinfigures.
 --
 
+CREATE DATABASE DB1;
+
 CREATE TABLE IF NOT EXISTS city (
     id integer NOT NULL,
     name text NOT NULL,
